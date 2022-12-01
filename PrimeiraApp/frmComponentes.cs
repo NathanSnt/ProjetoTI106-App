@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace PrimeiraApp
 {
-    public partial class frmPrimeiroPrograma : Form
+    public partial class frmComponentes : Form
     {
-        public frmPrimeiroPrograma()
+        public frmComponentes()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -10,3 +10,17 @@ C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraAp
 C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.Form1.resources
 C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.frmPrimeiroPrograma.resources
 C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.frmLogin.resources
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\bin\Debug\PrimeiraApp.exe.config
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\bin\Debug\PrimeiraApp.exe
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\bin\Debug\PrimeiraApp.pdb
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.AssemblyReference.cache
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.Form1.resources
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.frmLogin.resources
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.frmPrimeiroPrograma.resources
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.Properties.Resources.resources
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.GenerateResource.cache
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.CoreCompileInputs.cache
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.exe
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.pdb
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.frmComponentes.resources
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiraApp\obj\Debug\PrimeiraApp.frmCalcula.resources

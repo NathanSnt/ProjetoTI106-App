@@ -24,8 +24,10 @@ namespace PrimeiraApp
 
         private void btnEntrar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Bem vindo ao sistema.","Mensagem do sistema",
-                MessageBoxButtons.OKCancel,MessageBoxIcon.Information,
+            MessageBox.Show("Bem vindo ao sistema.",
+                "Mensagem do sistema",
+                MessageBoxButtons.OKCancel,
+                MessageBoxIcon.Information,
                 MessageBoxDefaultButton.Button2);
         }
     }
